@@ -44,7 +44,7 @@ https://github.com/Danny894/Buscador-de-autos.git
 ## Vista Previa
 
 Puedes ver una versión en vivo de este proyecto aquí:
-[Dani's GitHub Pages](https://danny894.github.io/).
+[Dani's GitHub Pages](https://moonlit-dragon-9c497e.netlify.app/).
 
 ## Tecnologías Utilizadas
 
